@@ -4,6 +4,7 @@ Above program accepts nepali unicode as input and outputs the romanized english 
 
 
 SAMPLE:
+
 nepali : नमस्कार! आरामै हुनुहुन्छ ? 
 
 roamn : namaskara! aaramai hunuhunchha ?
